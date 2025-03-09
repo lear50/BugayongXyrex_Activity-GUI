@@ -1,0 +1,19 @@
+C:\IPT\i\bugayongXyrex\Windows Forms Sample\bin\Debug\net8.0-windows\Windows Forms Sample.exe
+C:\IPT\i\bugayongXyrex\Windows Forms Sample\bin\Debug\net8.0-windows\Windows Forms Sample.deps.json
+C:\IPT\i\bugayongXyrex\Windows Forms Sample\bin\Debug\net8.0-windows\Windows Forms Sample.runtimeconfig.json
+C:\IPT\i\bugayongXyrex\Windows Forms Sample\bin\Debug\net8.0-windows\Windows Forms Sample.dll
+C:\IPT\i\bugayongXyrex\Windows Forms Sample\bin\Debug\net8.0-windows\Windows Forms Sample.pdb
+C:\IPT\i\bugayongXyrex\Windows Forms Sample\obj\Debug\net8.0-windows\Windows_Forms_Sample.Form1.resources
+C:\IPT\i\bugayongXyrex\Windows Forms Sample\obj\Debug\net8.0-windows\Windows_Forms_Sample.Form2.resources
+C:\IPT\i\bugayongXyrex\Windows Forms Sample\obj\Debug\net8.0-windows\Windows Forms Sample.csproj.GenerateResource.cache
+C:\IPT\i\bugayongXyrex\Windows Forms Sample\obj\Debug\net8.0-windows\Windows Forms Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\IPT\i\bugayongXyrex\Windows Forms Sample\obj\Debug\net8.0-windows\Windows Forms Sample.AssemblyInfoInputs.cache
+C:\IPT\i\bugayongXyrex\Windows Forms Sample\obj\Debug\net8.0-windows\Windows Forms Sample.AssemblyInfo.cs
+C:\IPT\i\bugayongXyrex\Windows Forms Sample\obj\Debug\net8.0-windows\Windows Forms Sample.csproj.CoreCompileInputs.cache
+C:\IPT\i\bugayongXyrex\Windows Forms Sample\obj\Debug\net8.0-windows\Windows Forms Sample.dll
+C:\IPT\i\bugayongXyrex\Windows Forms Sample\obj\Debug\net8.0-windows\refint\Windows Forms Sample.dll
+C:\IPT\i\bugayongXyrex\Windows Forms Sample\obj\Debug\net8.0-windows\Windows Forms Sample.pdb
+C:\IPT\i\bugayongXyrex\Windows Forms Sample\obj\Debug\net8.0-windows\Windows Forms Sample.genruntimeconfig.cache
+C:\IPT\i\bugayongXyrex\Windows Forms Sample\obj\Debug\net8.0-windows\ref\Windows Forms Sample.dll
+C:\IPT\i\bugayongXyrex\Windows Forms Sample\obj\Debug\net8.0-windows\Windows_Forms_Sample.Properties.Resources.resources
+C:\IPT\i\bugayongXyrex\Windows Forms Sample\obj\Debug\net8.0-windows\Windows_Forms_Sample.Form3.resources
